@@ -2,9 +2,9 @@
 Эта система будет оповещать вас в Телеграм о состоянии вашего узла, пропущенных блоках в неактивном статусе и т. д. 
 Также она каждый час отправляет вам краткую информацию о статусе вашего узла.
 
-                                    Инструкция:
+Инструкция:
 
-Создаем телеграмм-бота через @BotFather, настройте его и get bot API token. Если не получается создать смотрим здесь https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token
+Создаем телеграмм-бота через  @BotFather, настройте его и  get bot API token. Если не получается создать смотрим здесь https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token
 
 Создаем  2-е группы: alarm и log. Настраиваем их, добавьте своего бота в свои чаты и get chats IDs. Если не получается создать то смотрим здесь https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id
 
