@@ -52,7 +52,7 @@ root@otmorozky:~/status#
 
 Отредактируйте crontab с помощью crontab -e.
 
-# status
+
 
 1,11,21,31,41,51 * * * * bash $HOME/status/cosmos.sh >> $HOME/status/cosmos.log 2>&1
 
